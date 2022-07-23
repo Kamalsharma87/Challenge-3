@@ -1,4 +1,3 @@
-```shell
 let str = `{"return":
                      {
                        "response": [{"$": 1234}],
@@ -17,4 +16,3 @@ let str = `{"return":
         });
         desired_obj['return']=formated_obj;
         console.log(desired_obj.return.response);
-        ```
