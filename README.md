@@ -60,7 +60,7 @@ let userActivity = {
 console.log(userActivity.data);
 ```
 
-# Output
+## Output
 ```shell
  { totalUsers: 98, online: 87 } }
 ```
@@ -84,7 +84,7 @@ userActivity.data.online = 97;
 console.log(userActivity);
 ```
 
-# Output
+## Output
 ```shell
 { id :78945612378,
   date: 'July 23, 2001',
